@@ -6,7 +6,6 @@ This is a simple Java-based hospital appointment system that collects patient de
 
 Features
 Patient Details Collection: Captures the patient's name, age, gender, address, and phone number.
-
 Age Verification: Ensures that patients are between 18 and 95 years old.
 
 Gender Selection: Prompts the user to select their gender or opt for "Prefer Not To Say".
