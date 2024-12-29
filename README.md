@@ -1,11 +1,14 @@
 # Hospital-Appointment-System
 A Small For Booking an Appointment Online
 Overview
+
 This is a simple Java-based hospital appointment system that collects patient details, identifies the reason for the visit, and schedules appointments with the appropriate doctor based on the patient's symptoms. The program guides the user through various steps including entering personal details, selecting symptoms, and confirming an appointment time.
 
 
 Features
+
 Patient Details Collection: Captures the patient's name, age, gender, address, and phone number.
+
 Age Verification: Ensures that patients are between 18 and 95 years old.
 
 Gender Selection: Prompts the user to select their gender or opt for "Prefer Not To Say".
@@ -83,9 +86,15 @@ The user is reminded to pay the appointment fee and collect the report.
 
 
 6.Topic Used:
+
 1]Basic Input/Output (I/O)
+
 2] Conditionals (if-else statements)
+
 3] Switch-Case Statement
+
 4]String Handling
+
 5]Control Flow
+
 6]Exit Strategy
