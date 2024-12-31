@@ -25,7 +25,7 @@ Appointment Scheduling: The system allows the user to choose an appointment day 
 Final Confirmation: After collecting all the information, the system confirms the appointment and displays relevant details.
 
 
-#b Prerequisites
+# Prerequisites
 
 Java JDK (Java 8 or higher) installed on your machine.
 
