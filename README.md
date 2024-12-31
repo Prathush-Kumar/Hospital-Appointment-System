@@ -1,12 +1,12 @@
 # Hospital-Appointment-System
 A Small Project For Booking an Appointment Online
 
-Overview
+# Overview
 
 This is a simple Java-based hospital appointment system that collects patient details, identifies the reason for the visit, and schedules appointments with the appropriate doctor based on the patient's symptoms. The program guides the user through various steps including entering personal details, selecting symptoms, and confirming an appointment time.
 
 
-Features
+# Features
 
 Patient Details Collection: Captures the patient's name, age, gender, address, and phone number.
 
@@ -25,16 +25,16 @@ Appointment Scheduling: The system allows the user to choose an appointment day 
 Final Confirmation: After collecting all the information, the system confirms the appointment and displays relevant details.
 
 
-Prerequisites
+#b Prerequisites
 
 Java JDK (Java 8 or higher) installed on your machine.
 
 Basic understanding of Java programming concepts.
 
 
-Code Structure
+# Code Structure
 
-Main Class
+# Main Class
 
 Contains the main method which drives the entire program.
 
@@ -45,7 +45,7 @@ Performs validation on user inputs (e.g., age validation, phone number validatio
 Based on the user’s selection, it displays appropriate doctor details, consultation times, and confirms the appointment.
 
 
-Detailed Functionality
+# Detailed Functionality
 
 1. Personal Details Collection
 
