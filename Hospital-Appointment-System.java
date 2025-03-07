@@ -5,7 +5,7 @@ class Main {
     public static void main(String[] args) { 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Welcome to My Hospital!!");
+        System.out.println("Welcome to My Hospital!!"); 
         System.out.println("Dear Sir/Madam, please Enter your Details");
 
         System.out.print("Enter your name: ");
