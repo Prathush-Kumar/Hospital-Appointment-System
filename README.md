@@ -1,5 +1,5 @@
 # Hospital-Appointment-System                
-A Small Project For Booking an Appointment Online        
+A Small Project For Booking an Appointment Online         
    
 # Overview 
 
