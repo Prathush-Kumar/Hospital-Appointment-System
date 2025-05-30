@@ -5,7 +5,7 @@ A Small Project For Booking an Appointment Online
 
 This is a simple Java-based hospital appointment system that collects patient details, identifies the reason for the visit, and schedules appointments with the appropriate doctor based on the patient's symptoms. The program guides the user through various steps including entering personal details, selecting symptoms, and confirming an appointment time.
 
-
+ 
 # Features
 
 Patient Details Collection: Captures the patient's name, age, gender, address, and phone number.
